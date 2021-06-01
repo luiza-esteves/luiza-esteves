@@ -1,12 +1,18 @@
-### Hi there 👋
+## Hi! I'm Luíza👋
 
+- I live in Brazil
+- I’m currently in college
+- I'm studying software engineering at the University of Brasília(UnB)
+
+## How to connect with me:
+<a herf="https://www.linkedin.com/in/lu%C3%ADza-esteves-dos-santos-b7928b207/" target="balnk">
+  <p>linkedin</p>
+</a>
 <!--
-**luiza-esteves/luiza-esteves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
