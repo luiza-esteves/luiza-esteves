@@ -3,7 +3,8 @@
 - I live in Brazil
 - I’m currently in college
 - I'm studying software engineering at the University of Brasília(UnB) 💻
-- I'm currently learning Python
+- I'm currently learning HTML, CSS, JavaScript
+- My professional resume: https://luiza-esteves.github.io/curriculo/index.html
 
 ## Connect with me:
 - <a href="https://www.linkedin.com/in/lu%C3%ADza-esteves-dos-santos-b7928b207/" target="blank">Linkedin</a>
