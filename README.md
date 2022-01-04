@@ -3,6 +3,7 @@
 - I live in Brazil
 - I’m currently in college
 - I'm studying software engineering at the University of Brasília(UnB) 💻
+- I'm working at Orc'estra Gamificação
 - I'm currently learning HTML, CSS, JavaScript, React
 - My professional resume: https://luiza-esteves.github.io/curriculo/index.html
 
