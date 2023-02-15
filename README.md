@@ -1,7 +1,7 @@
 ## Hi! I'm Luíza👋
 
 - I live in Brazil
-- I've working at Orc'estra Gamificação (Junior Company of the Software Engineering course)
+- I've worked at Orc'estra Gamificação (Junior Company of the Software Engineering course)
 - I’m currently in college
 - I'm studying software engineering at the University of Brasília(UnB) 💻
 - I'm currently doing an internship at Dataprev
