@@ -1,10 +1,12 @@
 ## Hi! I'm Luíza👋
 
 - I live in Brazil
+- I've working at Orc'estra Gamificação (Junior Company of the Software Engineering course)
 - I’m currently in college
 - I'm studying software engineering at the University of Brasília(UnB) 💻
-- I'm working at Orc'estra Gamificação
-- I'm currently learning Java, JavaScript, React, Node
+- I'm currently doing an internship at Dataprev
+
+- I'm currently learning JavaScript (React, Node), Python
 
 
 ## Connect with me:
