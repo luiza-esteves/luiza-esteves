@@ -1,9 +1,9 @@
 <h1 align="center">Oi, sou a Luíza</h1>
 <h3 align="center">Estudante de Engenharia de Softwware (UnB)</h3>
 
-- 🔭 Atualmete sou estagiária na **Dataprev**
+- 🔭 Atualmete sou estagiária na **Alliage**
 
-- 🌱 Atualmente estou estudando **Javascript, Node, React**
+- 🌱 Atualmente estou estudando **Java, Javascript, Node, React**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
